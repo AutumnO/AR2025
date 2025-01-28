@@ -1,0 +1,39 @@
+th, td {
+  padding: 10px 10px 10px 10px;
+  text-align: left;
+  border: 1px solid #fff;
+  color: #fff;
+}
+th {
+  background-color: #fff;
+  color: #3d3d3d;
+  text-align: center;
+}
+
+details > div {
+  padding-left: 20px;
+}
+
+.link2 {
+	color: #e8deff;
+}
+
+.imagespacer {
+  background-image: url("../images/bigPhotos/weLayStrawberry.jpeg");
+}
+
+.imagespacer.image2 {
+  background-image: url("../images/bigPhotos/weTrinidadView.jpg");
+}
+
+.imagespacer.image3 {
+  background-image: url("../images/bigPhotos/weSnowman.jpg");
+}
+
+.imagespacer.image4 {
+  background-image: url("../images/bigPhotos/weClearlakeCamp.jpg");
+}
+
+.imagespacer.image5 {
+  background-image: url("../images/bigPhotos/weHottub.jpg");
+}
