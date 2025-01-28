@@ -330,10 +330,9 @@
 
 .imagespacer.image3 {
   background-image: url("../images/weSnowman.jpg");
-  background-position: 50% 0%;
+  background-position: 0% 100%;
   background-size: cover;
   background-repeat: no-repeat;
-  background-attachment: fixed;
 }
 
 .imagespacer.image4 {
