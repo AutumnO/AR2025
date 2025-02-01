@@ -19,7 +19,7 @@ details > div {
 }
 
 .imagespacer {
-  background-image: url("../images/bigPhotos/weLayStrawberry.jpeg");
+  background-image: url("../images/bigPhotos/weStrawberry.png");
 }
 
 .imagespacer.image2 {
@@ -36,5 +36,6 @@ details > div {
 }
 
 .imagespacer.image5 {
-  background-image: url("../images/bigPhotos/weHottub.JPG");
+  background-image: url("../images/bigPhotos/weStrawboth.jpg");
+  background-position: 50% 50%;
 }
